@@ -1,0 +1,10 @@
+0044,Axel,Herrera,Ingenieria
+0011,Gerson,Orellana,Ingenieria
+0022,Dulce,Prado,Derecho
+0033,Cindy,Ruano,Quimica Farmaceutica
+0055,Josue,Hicho,Criminologia
+0066,Javier,Fajardo,Auditoria
+0077,Albino,Rosales,Derecho
+0088,Madelin,Ceron,Auditoria
+0099,Juan,Pérez,Criminologia
+0000,Roberto,Véliz,Ingenieria
